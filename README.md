@@ -15,7 +15,7 @@ php artisan quiz:game
 ```
 
 ## For Correct
-![Screen Shot 2022-09-10 at 21.53.27.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662823809347/d_CWbuiSL.png align="left")
+![Screen Shot 2022-09-10 at 21.53.27.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662823809347/d_CWbuiSL.png)
 
 ## For Incorrect
-![Screen Shot 2022-09-10 at 21.53.50.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662823829525/nJdroEMdx.png align="left")
+![Screen Shot 2022-09-10 at 21.53.50.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662823829525/nJdroEMdx.png)

@@ -31,4 +31,8 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'opentdb' => [
+        'url' => env('OPENTDB_URL'),
+        'token' => env('OPENTDB_TOKEN'),
+    ]
 ];
